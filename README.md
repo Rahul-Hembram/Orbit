@@ -20,9 +20,9 @@ The application provides a simple productivity dashboard where users can create 
 - 🔔 Interactive notifications
 - 🎯 Progress-focused dashboard
 
-## 🖥️ Preview
+## 📸 Project Preview
 
-![Orbit Task Manager](./public/orbit-preview.png)
+![Orbit Dashboard](./screenshots/orbit-dashboard.png)
 
 ## 🚀 Live Demo
 
