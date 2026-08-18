@@ -24,6 +24,10 @@ The application provides a simple productivity dashboard where users can create 
 
 ![Orbit Task Manager](./public/orbit-preview.png)
 
+## 🚀 Live Demo
+
+🔗 **[View Live Project](https://orbit-rahh1.vercel.app/)**
+
 ## 🛠️ Tech Stack
 
 ### Frontend
