@@ -1,5 +1,5 @@
 import React from "react";
-import { Plus } from "Lucide-react";
+import { Plus } from "lucide-react";
 
 const Input = ({value,onChange,onAdd,onKeyPress}) => {
   //let value;

@@ -1,5 +1,5 @@
 import React from "react";
-import { Zap, CircleCheck, Circle } from "Lucide-react";
+import { Zap, CircleCheck, Circle } from "lucide-react";
 
 const StatsGrid = ({totalTodos,activeTodos,completedTodos}) => {
   //let totalTodos = 4;

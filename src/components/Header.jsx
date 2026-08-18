@@ -1,5 +1,5 @@
 import React from "react";
-import { Sparkles,TrendingUp} from 'Lucide-react';
+import { Sparkles,TrendingUp} from 'lucide-react';
 import { TypeAnimation } from "react-type-animation";
 
 const Header = ({progress,activeTodos,totalTodos}) => {

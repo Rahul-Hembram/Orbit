@@ -1,5 +1,5 @@
 import React from "react";
-import { Check, Save, X, Edit, Trash } from "Lucide-react";
+import { Check, Save, X, Edit, Trash } from "lucide-react";
 
 const TodoItem = ({
   todo,
