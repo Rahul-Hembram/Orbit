@@ -1,91 +1,49 @@
-🚀 Orbit — Task Management App
+# 🚀 Orbit — Task Management App
 
-Achieve more.
+> **Achieve more.**
 
-Orbit is a modern task management application built with React, designed to help users organize, track, and complete their daily tasks through a clean and focused productivity dashboard.
+Orbit is a modern task management application designed to help users organize, track, and complete their daily tasks through a clean and focused interface.
 
-🌐 Live Demo
+The application provides a simple productivity dashboard where users can create tasks, monitor active and completed tasks, and keep track of their overall progress.
 
-🚀 Open Orbit — Live Project
+## ✨ Features
 
-💻 View Source Code — GitHub
+- 📝 Create new tasks
+- ✏️ Edit existing tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📊 Track total, active, and completed tasks
+- 💾 Persistent task storage
+- ⚡ Fast and responsive interface
+- 🎨 Modern dark-green productivity UI
+- 📱 Responsive design
+- 🔔 Interactive notifications
+- 🎯 Progress-focused dashboard
 
-🖥️ Preview
+## 🖥️ Preview
 
+![Orbit Task Manager](./public/orbit-preview.png)
 
+## 🛠️ Tech Stack
 
-✨ Features
+### Frontend
+- **React.js** — Component-based UI development
+- **Vite** — Fast development and production build tool
+- **JavaScript (ES6+)**
+- **Lucide React** — Modern icon library
+- **CSS** — Custom styling and responsive design
 
-📝 Create new tasks
+### Development Environment
+- **Node.js**
+- **npm**
+- **Git & GitHub**
 
-✏️ Edit existing tasks
+## 📂 Project Structure
 
-✅ Mark tasks as completed
-
-🗑️ Delete tasks
-
-📊 Track total, active, and completed tasks
-
-💾 Persistent task storage
-
-🔔 Interactive notifications
-
-⚡ Fast and responsive UI
-
-🎨 Modern dark-green productivity interface
-
-📱 Responsive design
-
-🛠️ Tech Stack
-
-Frontend
-
-React.js — Component-based UI development
-
-Vite — Fast development and production build tool
-
-JavaScript (ES6+)
-
-Lucide React — Modern icon library
-
-CSS — Custom styling and responsive design
-
-Development & Deployment
-
-Node.js
-
-npm
-
-Git & GitHub
-
-Vercel
-
-📊 Dashboard
-
-Orbit provides a simple productivity dashboard with three key metrics:
-
-Metric
-
-Description
-
-Total
-
-Total number of tasks
-
-Active
-
-Tasks that are still pending
-
-Done
-
-Tasks that have been completed
-
-📂 Project Structure
-
+```text
 Orbit/
 │
 ├── public/
-│   └── orbit-preview.png
 │
 ├── src/
 │   ├── components/
@@ -106,77 +64,3 @@ Orbit/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
-
-⚙️ Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/Rahul-Hembram/Orbit.git
-
-2. Navigate to the project
-
-cd Orbit
-
-3. Install dependencies
-
-npm install
-
-4. Start the development server
-
-npm run dev
-
-Open the local URL provided by Vite in your browser.
-
-🏗️ Production Build
-
-Create a production build:
-
-npm run build
-
-Preview the production build locally:
-
-npm run preview
-
-🎯 Project Goals
-
-Orbit was built to practice and demonstrate:
-
-React component-based architecture
-
-React state and props
-
-Reusable UI components
-
-Task CRUD operations
-
-Responsive UI development
-
-Client-side data persistence
-
-Production deployment using Vercel
-
-🔮 Future Improvements
-
-🔐 User authentication
-
-☁️ Cloud-based task storage
-
-📅 Due dates and reminders
-
-🏷️ Task categories and priorities
-
-🔍 Search and filtering
-
-📈 Productivity analytics
-
-📱 Further mobile optimization
-
-👨‍💻 Author
-
-Rahul Hembram
-
-GitHub Profile
-
-📄 License
-
-This project is created for learning and portfolio purposes.
