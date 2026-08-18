@@ -1,20 +1,182 @@
- HEAD
-# React + Vite
+🚀 Orbit — Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Achieve more.
 
-Currently, two official plugins are available:
+Orbit is a modern task management application built with React, designed to help users organize, track, and complete their daily tasks through a clean and focused productivity dashboard.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Live Demo
 
-## React Compiler
+🚀 Open Orbit — Live Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 View Source Code — GitHub
 
-## Expanding the ESLint configuration
+🖥️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# Orbit
- f69e82fe47351ceb4e7b3a6b524d2d8864dba5c1
+
+✨ Features
+
+📝 Create new tasks
+
+✏️ Edit existing tasks
+
+✅ Mark tasks as completed
+
+🗑️ Delete tasks
+
+📊 Track total, active, and completed tasks
+
+💾 Persistent task storage
+
+🔔 Interactive notifications
+
+⚡ Fast and responsive UI
+
+🎨 Modern dark-green productivity interface
+
+📱 Responsive design
+
+🛠️ Tech Stack
+
+Frontend
+
+React.js — Component-based UI development
+
+Vite — Fast development and production build tool
+
+JavaScript (ES6+)
+
+Lucide React — Modern icon library
+
+CSS — Custom styling and responsive design
+
+Development & Deployment
+
+Node.js
+
+npm
+
+Git & GitHub
+
+Vercel
+
+📊 Dashboard
+
+Orbit provides a simple productivity dashboard with three key metrics:
+
+Metric
+
+Description
+
+Total
+
+Total number of tasks
+
+Active
+
+Tasks that are still pending
+
+Done
+
+Tasks that have been completed
+
+📂 Project Structure
+
+Orbit/
+│
+├── public/
+│   └── orbit-preview.png
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Input.jsx
+│   │   ├── Notification.jsx
+│   │   ├── StatsGrid.jsx
+│   │   ├── TodoItem.jsx
+│   │   └── TodoList.jsx
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+
+⚙️ Getting Started
+
+1. Clone the repository
+
+git clone https://github.com/Rahul-Hembram/Orbit.git
+
+2. Navigate to the project
+
+cd Orbit
+
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
+npm run dev
+
+Open the local URL provided by Vite in your browser.
+
+🏗️ Production Build
+
+Create a production build:
+
+npm run build
+
+Preview the production build locally:
+
+npm run preview
+
+🎯 Project Goals
+
+Orbit was built to practice and demonstrate:
+
+React component-based architecture
+
+React state and props
+
+Reusable UI components
+
+Task CRUD operations
+
+Responsive UI development
+
+Client-side data persistence
+
+Production deployment using Vercel
+
+🔮 Future Improvements
+
+🔐 User authentication
+
+☁️ Cloud-based task storage
+
+📅 Due dates and reminders
+
+🏷️ Task categories and priorities
+
+🔍 Search and filtering
+
+📈 Productivity analytics
+
+📱 Further mobile optimization
+
+👨‍💻 Author
+
+Rahul Hembram
+
+GitHub Profile
+
+📄 License
+
+This project is created for learning and portfolio purposes.
